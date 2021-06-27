@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Barrier Android</string>
+    <string name="goto_accessibility">Goto Accessibility</string>
+    <string name="accessibility_desc">Barrier android provides power to share single mouse/keyboard from </string>
+    <string name="accessibility_note">Note: To run the app, Turn on Touch Service by Barrier Android from Accessibility under phone settings</string>
+</resources>
